@@ -1,0 +1,67 @@
+2024-03-06 11:09:20,625 INFO  [Log]  Application Opened 
+2024-03-06 11:21:55,284 INFO  [Log]  Application Opened 
+2024-03-06 11:21:57,527 INFO  [Log] Login completed  
+2024-03-06 11:21:57,845 INFO  [Log] Logout completed  
+2024-03-06 11:21:59,269 INFO  [Log] Application closed  
+2024-03-06 12:22:03,570 INFO  [Log]  Application Opened 
+2024-03-06 12:22:08,085 INFO  [Log] Login completed  
+2024-03-06 12:22:08,135 INFO  [Log] entered into frame  
+2024-03-06 12:22:18,510 INFO  [Log] Add emp  
+2024-03-06 12:22:18,531 INFO  [Log]  exit from frame 
+2024-03-06 12:22:18,855 INFO  [Log] Logout completed  
+2024-03-06 12:22:20,395 INFO  [Log] Application closed  
+2024-03-06 12:26:12,131 INFO  [Log]  Application Opened 
+2024-03-06 12:26:17,882 INFO  [Log] Login completed  
+2024-03-06 12:26:18,181 INFO  [Log] Logout completed  
+2024-03-06 12:26:19,500 INFO  [Log] Application closed  
+2024-03-06 12:26:24,992 INFO  [Log]  Application Opened 
+2024-03-06 12:26:26,369 INFO  [Log] Login completed  
+2024-03-06 12:26:26,413 INFO  [Log] entered into frame  
+2024-03-06 12:26:32,638 INFO  [Log] Add emp  
+2024-03-06 12:26:32,661 INFO  [Log]  exit from frame 
+2024-03-06 12:26:33,298 INFO  [Log] Logout completed  
+2024-03-06 12:26:34,599 INFO  [Log] Application closed  
+2024-03-06 12:41:39,632 INFO  [Log]  Application Opened 
+2024-03-06 12:41:44,621 INFO  [Log] Login completed  
+2024-03-06 12:41:44,940 INFO  [Log] Logout completed  
+2024-03-06 12:41:46,348 INFO  [Log] Application closed  
+2024-03-06 12:42:24,525 INFO  [Log]  Application Opened 
+2024-03-06 12:42:30,345 INFO  [Log] Login completed  
+2024-03-06 12:42:30,381 INFO  [Log] entered into frame  
+2024-03-06 12:42:37,710 INFO  [Log] Add emp  
+2024-03-06 12:42:37,741 INFO  [Log]  exit from frame 
+2024-03-06 12:42:38,302 INFO  [Log] Logout completed  
+2024-03-06 12:42:39,605 INFO  [Log] Application closed  
+2024-03-06 12:49:26,523 INFO  [Log]  Application Opened 
+2024-03-06 12:49:28,062 INFO  [Log] Login completed  
+2024-03-06 12:49:28,379 INFO  [Log] Logout completed  
+2024-03-06 12:49:30,160 INFO  [Log] Application closed  
+2024-03-06 12:49:36,263 INFO  [Log]  Application Opened 
+2024-03-06 12:49:37,538 INFO  [Log] Login completed  
+2024-03-06 12:49:37,606 INFO  [Log] entered into frame  
+2024-03-06 12:49:40,764 INFO  [Log] Add emp  
+2024-03-06 12:49:40,773 INFO  [Log]  exit from frame 
+2024-03-06 12:49:41,429 INFO  [Log] Logout completed  
+2024-03-06 12:49:43,133 INFO  [Log] Application closed  
+2024-03-06 12:58:23,630 INFO  [Log]  Application Opened 
+2024-03-06 12:58:24,766 INFO  [Log] Login completed  
+2024-03-06 12:58:25,040 INFO  [Log] Logout completed  
+2024-03-06 12:58:26,577 INFO  [Log] Application closed  
+2024-03-06 12:58:31,560 INFO  [Log]  Application Opened 
+2024-03-06 12:58:32,548 INFO  [Log] Login completed  
+2024-03-06 12:58:32,586 INFO  [Log] entered into frame  
+2024-03-06 12:58:35,424 INFO  [Log] Add emp  
+2024-03-06 12:58:35,431 INFO  [Log]  exit from frame 
+2024-03-06 12:58:35,929 INFO  [Log] Logout completed  
+2024-03-06 12:58:37,975 INFO  [Log] Application closed  
+2024-03-06 13:04:40,797 INFO  [Log]  Application Opened 
+2024-03-06 13:04:41,860 INFO  [Log] Login completed  
+2024-03-06 13:04:42,131 INFO  [Log] Logout completed  
+2024-03-06 13:04:44,057 INFO  [Log] Application closed  
+2024-03-06 13:04:47,973 INFO  [Log]  Application Opened 
+2024-03-06 13:04:48,923 INFO  [Log] Login completed  
+2024-03-06 13:04:48,955 INFO  [Log] entered into frame  
+2024-03-06 13:04:51,307 INFO  [Log] Add emp  
+2024-03-06 13:04:51,313 INFO  [Log]  exit from frame 
+2024-03-06 13:04:51,617 INFO  [Log] Logout completed  
+2024-03-06 13:04:53,123 INFO  [Log] Application closed  
